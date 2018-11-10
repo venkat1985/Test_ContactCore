@@ -1,0 +1,229 @@
+[
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app",
+        {
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541858654654,
+            "changeTime": 1541858654654,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main",
+        {
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541858654654,
+            "changeTime": 1541858654654,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541860279701,
+            "changeTime": 1541860279701,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541860279692,
+            "changeTime": 1541860279692,
+            "contentHash": "473b2d470eaba95212934c741d99841ce2b2bc97"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore",
+        {
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541858853936,
+            "changeTime": 1541858853936,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreView.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreView.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1541860279694,
+            "changeTime": 1541860279694,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreViewController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreViewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1541860279696,
+            "changeTime": 1541860279696,
+            "contentHash": "4c3d3df031b45ef491a0b1eebf5d6f1a226aec59"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreViewHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreViewHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 511,
+            "modifiedTime": 1541860279698,
+            "changeTime": 1541860279698,
+            "contentHash": "b6357cdb5615c728c929498a204786b7739ddf0e"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreView.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView\\Contact_CoreView.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 501,
+            "modifiedTime": 1541860279699,
+            "changeTime": 1541860279699,
+            "contentHash": "ab97d9341ce3f6747f4435f21083deaa6983c334"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\Test_ContactCoreController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\Test_ContactCoreController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1541860279702,
+            "changeTime": 1541860279702,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\Test_ContactCoreController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\Test_ContactCoreController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 243,
+            "modifiedTime": 1541860279705,
+            "changeTime": 1541860279705,
+            "contentHash": "04df40a2756f1e7fcdcbfc4b7ce06de84cdfd6db"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactService.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1541860279708,
+            "changeTime": 1541860279708,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactService.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 194,
+            "modifiedTime": 1541860279710,
+            "changeTime": 1541860279710,
+            "contentHash": "434d8f9ff478bf43240247097c0c7ca92a534453"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactServiceImpl.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactServiceImpl.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1541860279712,
+            "changeTime": 1541860279712,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactServiceImpl.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes\\ContactServiceImpl.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 654,
+            "modifiedTime": 1541860279714,
+            "changeTime": 1541860279714,
+            "contentHash": "14bf17914fefce5a2f0d52ea7a0bb568f8635ea9"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\aura\\Contact_CoreView",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541860279699,
+            "changeTime": 1541860279699,
+            "contentHash": "c1e98c0ff8ffc4f0d96cc19535b7545828295bce"
+        }
+    ],
+    [
+        "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\salesforce_DX\\workspace\\Test_ContactCore\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541860279714,
+            "changeTime": 1541860279714,
+            "contentHash": "46183b5b0c18fa3d84e8d4b84e629cbc3b56f3f7"
+        }
+    ]
+]

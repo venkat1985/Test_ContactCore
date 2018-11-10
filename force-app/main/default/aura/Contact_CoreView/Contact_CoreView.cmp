@@ -1,0 +1,20 @@
+<aura:component implements="flexipage:availableForAllPageTypes" controller="Test_ContactCoreController">
+ <aura:attribute name="contacts" type="Object[]"/>
+  <div>
+ Contact Core Details   
+ </div>
+<table>
+ <tr>
+ <td>Contact Name</td>
+ <td>Account Name</td>
+ <td>Email</td>    
+ </tr>   
+<aura:iteration items="{!v.contacts}" var="aContact">
+  <tr>
+  <td>{!aContact.Name}</td>
+  <td>{!aContact.Account.Name}</td>
+  <td>{!aContact.Email}</td>    
+</tr>  
+</aura:iteration>
+</table>    
+</aura:component>
